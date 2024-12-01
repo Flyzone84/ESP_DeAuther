@@ -34,27 +34,6 @@ responsible for any misuse or damage caused by this program. Also we inform you
 that some of your your actions may be **ILLEGAL** and you **CAN NOT** use this
 software to test person or company without **WRITTEN PERMISSION** from them.
 
-# Tested On
-
-<table>
-    <tr>
-        <th>Operative system</th>
-        <th> Version </th>
-    </tr>
-    <tr>
-        <td>Parrot OS</td>
-        <td> Rolling Edition </td>
-    </tr>
-    <tr>
-        <td>Kali linux</td>
-        <td> Rolling Edition </td>
-  </tr>
-    <tr>
-        <td>Ubuntu</td>
-        <td>16.04  / 15.10 </td>
-    </tr>
-</table>
-
 
 # Installation :
 
