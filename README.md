@@ -4,7 +4,7 @@
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
 <p align="center">
-  <img src="banner.png">
+  <img src="Banner.png">
 </p>
 
 <p align="center">
