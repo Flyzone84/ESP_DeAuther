@@ -40,15 +40,14 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 ## Clone
 
 ```
-git clone https://github.com/Flyzone84/DeAuther.git
+git clone https://github.com/Flyzone84/ESP_DeAuther.git
 ```
-## Running
+## website
 - Dependencies will be automatically installed.
 ```
-sudo bash wifi-jammer.sh
+         https://esp.huhn.me/
 ```
-# Demonstration
-https://youtu.be/faL-VvP2Kvc
+## select board and upload the code
 
 # Contact:
 
