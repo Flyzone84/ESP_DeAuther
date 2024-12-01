@@ -28,7 +28,7 @@
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
-The use of the Wifi-Jammer is **COMPLETE
+The use of the ESP_DeAuther is **COMPLETE
 RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT
 responsible for any misuse or damage caused by this program. Also we inform you
 that some of your your actions may be **ILLEGAL** and you **CAN NOT** use this
@@ -48,6 +48,13 @@ git clone https://github.com/Flyzone84/ESP_DeAuther.git
          https://esp.huhn.me/
 ```
 ## select board and upload the code
+
+## connect the wifi 
+```
+         name : pwned  password:deauther
+```
+## got http://192.168.4.1
+## And start attack !!!!!!!!!
 
 # Contact:
 
